@@ -9,7 +9,7 @@ words2 = []
 
 for i in range(5):
     words.append(input('Ingresa una letra: '))
-    words2.append('')
+    words2.append('') 
 
 end = 5 
 for word in words:

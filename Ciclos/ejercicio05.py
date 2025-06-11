@@ -11,3 +11,4 @@ while True:
        if letra == ' ':
            break
        print ('No es vocal')
+ 
